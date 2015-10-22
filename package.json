@@ -1,0 +1,27 @@
+{
+  "name": "parse-cloud",
+  "version": "1.0.6",
+  "description": "Express middleware and utilities for Parse.com Cloud Code functionality in Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavanka/parse-cloud.git"
+  },
+  "keywords": [
+    "parse",
+    "express",
+    "middleware"
+  ],
+  "dependencies": {
+    "express": "~4.9",
+    "body-parser": "~1.12",
+    "request": "~2.61",
+    "parse": "~1.6"
+  },
+  "author": "pavanka@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavanka/parse-cloud/issues"
+  },
+  "homepage": "https://github.com/pavanka/parse-cloud"
+}
